@@ -1,0 +1,40 @@
+*{
+    font-family: sans-serif;
+}
+
+header{
+    display: grid;
+    grid-template-columns : 30% 30% 30%;
+    grid-template-rows: 10% 40%;
+    position: top;
+    width:100%;
+    padding:0%;
+    margin-top: 0;
+    background-color: rgb(51, 51, 51);
+    letter-spacing: 2px;
+    border-bottom: 1px solid black;
+    color: white;
+    
+  }
+  #topnav{
+    display: flex;
+    justify-content: left;
+    align-content: left;
+     
+  }
+
+  #logo{
+      text-align: left;
+      margin-top: 0%;
+      font-size: 20px;
+  }
+  
+
+    #login{
+        text-align: center;
+    }
+ 
+        
+       
+       
+    
